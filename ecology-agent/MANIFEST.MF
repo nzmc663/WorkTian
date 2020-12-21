@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: mac
+Agent-Class: tianzefa.work.agent.ecology.EcologyAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Class-Path: byte-buddy-1.2.3.jar byte-buddy-agent-1.9.16.jar
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_251
+
